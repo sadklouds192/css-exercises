@@ -1,0 +1,16 @@
+.soul-reaper{
+    background-color: black;
+    color: white;
+}
+
+.hollow{
+    background-color: white;
+}
+
+.soul-reaper, .hollow{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+body{
+    background-color: lightblue;
+}
