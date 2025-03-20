@@ -1,0 +1,19 @@
+.odd-group{
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.expansion{
+    font-size: 24px;
+}
+
+#numberOne{
+    color: blue;
+    font-size: 36px;
+}
+
+#another-one{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
